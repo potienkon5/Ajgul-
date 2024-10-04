@@ -1,1 +1,1 @@
-python SamBotVrodeRabit.py
+web: python SamBotVrodeRabit.py
