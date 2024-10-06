@@ -48,7 +48,7 @@ deck_info = {
 
         Автор колоды Юлия Демидова
         """,
-        "folder": "cards/istochnik"
+        "folder": "cards/Istochnik"
     },
     "Важное о себе": {
         "description": """
