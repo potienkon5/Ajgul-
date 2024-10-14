@@ -1,1 +1,1 @@
-web: python SamBotVrodeRabit.py
+worker: python SamBotVrodeRabit.py 
